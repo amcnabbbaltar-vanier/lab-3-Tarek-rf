@@ -3960,7 +3960,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5141206237353443144, guid: 1ab9be602d5b04fe492e1b362ebb4ab3, type: 3}
       propertyPath: m_Name
-      value: Bullet/Cannonball
+      value: Bullet
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
